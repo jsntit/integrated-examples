@@ -1,4 +1,4 @@
-name: Build caddy
+name: Build caddy new
 
 on:
   workflow_dispatch:

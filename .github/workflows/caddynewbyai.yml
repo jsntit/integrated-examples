@@ -1,4 +1,4 @@
-name: Build Caddy
+name: Build Caddy By AI
 
 on:
   workflow_dispatch:
